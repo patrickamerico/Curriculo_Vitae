@@ -87,10 +87,14 @@ Estágio > Programador Júnior > Programador Pleno.
 * [Site Pessoal]
 * [InfoAgro]
 
-## Cursos Completos
+## Certificações
 * Curso Git e Github para iniciantes (Udemy / [Certificado](#))
-* Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
-
+* Business Intelligence Foundation Professional Certification – BIFPC
+* Fundamentos Na Lei Geral De Proteção De Dados – LGPDF
+* Six Sigma Yellow Belt
+* Six Sigma White Belt in Healthcare
+* Certificação Fundação Scrum – SFPC
+* Remote Work Professional Certification - RWPC
 
 ## Redes Sociais
 *  [Linkedin]()
